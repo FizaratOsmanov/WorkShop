@@ -1,0 +1,17 @@
+C:\Users\ca r221.14\source\repos\WorkShopManagementSystem\WorkShopApp.Data\bin\Debug\net8.0\WorkShopApp.Data.deps.json
+C:\Users\ca r221.14\source\repos\WorkShopManagementSystem\WorkShopApp.Data\bin\Debug\net8.0\WorkShopApp.Data.runtimeconfig.json
+C:\Users\ca r221.14\source\repos\WorkShopManagementSystem\WorkShopApp.Data\bin\Debug\net8.0\WorkShopApp.Data.dll
+C:\Users\ca r221.14\source\repos\WorkShopManagementSystem\WorkShopApp.Data\bin\Debug\net8.0\WorkShopApp.Data.pdb
+C:\Users\ca r221.14\source\repos\WorkShopManagementSystem\WorkShopApp.Data\bin\Debug\net8.0\WorkShopApp.Core.dll
+C:\Users\ca r221.14\source\repos\WorkShopManagementSystem\WorkShopApp.Data\bin\Debug\net8.0\WorkShopApp.Core.pdb
+C:\Users\ca r221.14\source\repos\WorkShopManagementSystem\WorkShopApp.Data\obj\Debug\net8.0\WorkShopApp.Data.csproj.AssemblyReference.cache
+C:\Users\ca r221.14\source\repos\WorkShopManagementSystem\WorkShopApp.Data\obj\Debug\net8.0\WorkShopApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca r221.14\source\repos\WorkShopManagementSystem\WorkShopApp.Data\obj\Debug\net8.0\WorkShopApp.Data.AssemblyInfoInputs.cache
+C:\Users\ca r221.14\source\repos\WorkShopManagementSystem\WorkShopApp.Data\obj\Debug\net8.0\WorkShopApp.Data.AssemblyInfo.cs
+C:\Users\ca r221.14\source\repos\WorkShopManagementSystem\WorkShopApp.Data\obj\Debug\net8.0\WorkShopApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\ca r221.14\source\repos\WorkShopManagementSystem\WorkShopApp.Data\obj\Debug\net8.0\WorkShop.A12DDCF4.Up2Date
+C:\Users\ca r221.14\source\repos\WorkShopManagementSystem\WorkShopApp.Data\obj\Debug\net8.0\WorkShopApp.Data.dll
+C:\Users\ca r221.14\source\repos\WorkShopManagementSystem\WorkShopApp.Data\obj\Debug\net8.0\refint\WorkShopApp.Data.dll
+C:\Users\ca r221.14\source\repos\WorkShopManagementSystem\WorkShopApp.Data\obj\Debug\net8.0\WorkShopApp.Data.pdb
+C:\Users\ca r221.14\source\repos\WorkShopManagementSystem\WorkShopApp.Data\obj\Debug\net8.0\WorkShopApp.Data.genruntimeconfig.cache
+C:\Users\ca r221.14\source\repos\WorkShopManagementSystem\WorkShopApp.Data\obj\Debug\net8.0\ref\WorkShopApp.Data.dll

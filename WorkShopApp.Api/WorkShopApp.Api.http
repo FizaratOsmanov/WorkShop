@@ -1,0 +1,6 @@
+@WorkShopApp.Api_HostAddress = http://localhost:5224
+
+GET {{WorkShopApp.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

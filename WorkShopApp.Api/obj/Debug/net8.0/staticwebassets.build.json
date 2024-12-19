@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AmPAKE7MIPbpTk96VVmzyWz6/Iidj2dzoe1JtQ2hWzI=",
+  "Source": "WorkShopApp.Api",
+  "BasePath": "_content/WorkShopApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
