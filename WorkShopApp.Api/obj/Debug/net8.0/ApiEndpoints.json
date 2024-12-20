@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "ContainingType": "WorkShopApp.Api.Controllers.WorkShopsController",
+    "Method": "GetAllWorkShop",
+    "RelativePath": "api/WorkShops",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WorkShopApp.Api.Controllers.WorkShopsController",
+    "Method": "CreateWorkShop",
+    "RelativePath": "api/WorkShops",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "WorkShopApp.BL.DTOs.WorkShopDTOs.CreateWorkShopDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WorkShopApp.Api.Controllers.WorkShopsController",
+    "Method": "GetWorkShopById",
+    "RelativePath": "api/WorkShops/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

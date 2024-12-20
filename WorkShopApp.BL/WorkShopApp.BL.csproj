@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\WorkShopApp.Core\WorkShopApp.Core.csproj" />
+    <ProjectReference Include="..\WorkShopApp.Data\WorkShopApp.Data.csproj" />
   </ItemGroup>
 
 </Project>

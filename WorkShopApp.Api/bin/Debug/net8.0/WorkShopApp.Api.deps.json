@@ -943,7 +943,8 @@
       },
       "WorkShopApp.BL/1.0.0": {
         "dependencies": {
-          "WorkShopApp.Core": "1.0.0"
+          "WorkShopApp.Core": "1.0.0",
+          "WorkShopApp.Data": "1.0.0"
         },
         "runtime": {
           "WorkShopApp.BL.dll": {

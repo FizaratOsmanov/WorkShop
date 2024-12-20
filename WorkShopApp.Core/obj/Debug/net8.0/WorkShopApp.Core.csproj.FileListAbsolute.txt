@@ -9,3 +9,15 @@ C:\Users\ca r221.14\source\repos\WorkShopManagementSystem\WorkShopApp.Core\obj\D
 C:\Users\ca r221.14\source\repos\WorkShopManagementSystem\WorkShopApp.Core\obj\Debug\net8.0\refint\WorkShopApp.Core.dll
 C:\Users\ca r221.14\source\repos\WorkShopManagementSystem\WorkShopApp.Core\obj\Debug\net8.0\WorkShopApp.Core.pdb
 C:\Users\ca r221.14\source\repos\WorkShopManagementSystem\WorkShopApp.Core\obj\Debug\net8.0\ref\WorkShopApp.Core.dll
+E:\WorkShop\WorkShopApp.Core\bin\Debug\net8.0\WorkShopApp.Core.deps.json
+E:\WorkShop\WorkShopApp.Core\bin\Debug\net8.0\WorkShopApp.Core.dll
+E:\WorkShop\WorkShopApp.Core\bin\Debug\net8.0\WorkShopApp.Core.pdb
+E:\WorkShop\WorkShopApp.Core\obj\Debug\net8.0\WorkShopApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkShop\WorkShopApp.Core\obj\Debug\net8.0\WorkShopApp.Core.AssemblyInfoInputs.cache
+E:\WorkShop\WorkShopApp.Core\obj\Debug\net8.0\WorkShopApp.Core.AssemblyInfo.cs
+E:\WorkShop\WorkShopApp.Core\obj\Debug\net8.0\WorkShopApp.Core.csproj.CoreCompileInputs.cache
+E:\WorkShop\WorkShopApp.Core\obj\Debug\net8.0\WorkShopApp.Core.sourcelink.json
+E:\WorkShop\WorkShopApp.Core\obj\Debug\net8.0\WorkShopApp.Core.dll
+E:\WorkShop\WorkShopApp.Core\obj\Debug\net8.0\refint\WorkShopApp.Core.dll
+E:\WorkShop\WorkShopApp.Core\obj\Debug\net8.0\WorkShopApp.Core.pdb
+E:\WorkShop\WorkShopApp.Core\obj\Debug\net8.0\ref\WorkShopApp.Core.dll

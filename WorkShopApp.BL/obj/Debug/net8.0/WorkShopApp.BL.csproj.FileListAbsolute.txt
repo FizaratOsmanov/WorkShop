@@ -13,3 +13,21 @@ C:\Users\ca r221.14\source\repos\WorkShopManagementSystem\WorkShopApp.BL\obj\Deb
 C:\Users\ca r221.14\source\repos\WorkShopManagementSystem\WorkShopApp.BL\obj\Debug\net8.0\refint\WorkShopApp.BL.dll
 C:\Users\ca r221.14\source\repos\WorkShopManagementSystem\WorkShopApp.BL\obj\Debug\net8.0\WorkShopApp.BL.pdb
 C:\Users\ca r221.14\source\repos\WorkShopManagementSystem\WorkShopApp.BL\obj\Debug\net8.0\ref\WorkShopApp.BL.dll
+E:\WorkShop\WorkShopApp.BL\bin\Debug\net8.0\WorkShopApp.BL.deps.json
+E:\WorkShop\WorkShopApp.BL\bin\Debug\net8.0\WorkShopApp.BL.dll
+E:\WorkShop\WorkShopApp.BL\bin\Debug\net8.0\WorkShopApp.BL.pdb
+E:\WorkShop\WorkShopApp.BL\bin\Debug\net8.0\WorkShopApp.Core.dll
+E:\WorkShop\WorkShopApp.BL\bin\Debug\net8.0\WorkShopApp.Core.pdb
+E:\WorkShop\WorkShopApp.BL\obj\Debug\net8.0\WorkShopApp.BL.csproj.AssemblyReference.cache
+E:\WorkShop\WorkShopApp.BL\obj\Debug\net8.0\WorkShopApp.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkShop\WorkShopApp.BL\obj\Debug\net8.0\WorkShopApp.BL.AssemblyInfoInputs.cache
+E:\WorkShop\WorkShopApp.BL\obj\Debug\net8.0\WorkShopApp.BL.AssemblyInfo.cs
+E:\WorkShop\WorkShopApp.BL\obj\Debug\net8.0\WorkShopApp.BL.csproj.CoreCompileInputs.cache
+E:\WorkShop\WorkShopApp.BL\obj\Debug\net8.0\WorkShopApp.BL.sourcelink.json
+E:\WorkShop\WorkShopApp.BL\obj\Debug\net8.0\WorkShop.7933AB3A.Up2Date
+E:\WorkShop\WorkShopApp.BL\obj\Debug\net8.0\WorkShopApp.BL.dll
+E:\WorkShop\WorkShopApp.BL\obj\Debug\net8.0\refint\WorkShopApp.BL.dll
+E:\WorkShop\WorkShopApp.BL\obj\Debug\net8.0\WorkShopApp.BL.pdb
+E:\WorkShop\WorkShopApp.BL\obj\Debug\net8.0\ref\WorkShopApp.BL.dll
+E:\WorkShop\WorkShopApp.BL\bin\Debug\net8.0\WorkShopApp.Data.dll
+E:\WorkShop\WorkShopApp.BL\bin\Debug\net8.0\WorkShopApp.Data.pdb
