@@ -1,36 +1,51 @@
-﻿using WorkShopApp.BL.Services.Abstractions;
+﻿using WorkShopApp.BL.DTOs.ParticipantDTOs;
+using WorkShopApp.BL.Services.Abstractions;
 using WorkShopApp.Core.Entities;
 using WorkShopApp.Data.DAL;
+using WorkShopApp.Data.Repositories.Abstractions;
+using WorkShopApp.Data.Repositories.Implementations;
 
 namespace WorkShopApp.BL.Services.Implementations;
 
 public class ParticipantService : IParticipantService
 {
-    private readonly IParticipantService _participantService;
+    private readonly IParticipantRepository _participantRepository;
     private readonly AppDbContext _appDbContext;
-    public ParticipantService(IParticipantService participantService, AppDbContext appDbContext)
+    public ParticipantService(IParticipantRepository participantRepository, AppDbContext appDbContext)
     {
-        _participantService = participantService;
+        _participantRepository = participantRepository;
         _appDbContext = appDbContext;
     }
-    public Task<Participant> CreateWorkShopAsync(Participant participant)
+    public async Task<Participant> CreateParticipantAsync(CreateParticipantDTO dto)
     {
-        throw new NotImplementedException();
+        Participant part = new Participant
+        {
+            Name = dto.Name,
+            Email = dto.Email,
+            Phone = dto.Phone,
+        };
+        return await _participantRepository.CreateAsync(part);
     }
 
     public void Delete(Participant participant)
     {
-        throw new NotImplementedException();
+        participant.IsDeleted = true;
+        participant.DeletedAt = DateTime.UtcNow.AddHours(4);
+        _participantRepository.Update(participant);
+        _appDbContext.SaveChangesAsync();
     }
 
-    public Task<ICollection<Participant>> GetAllParticipantAsync()
+    public async Task<ICollection<Participant>> GetAllParticipantAsync()
     {
-        throw new NotImplementedException();
+        return await _participantRepository.GetAllAsync();
     }
+
+
+
 
     public async Task<Participant> GetParticipantByIdAsync(int id)
     {
-        return await _participantService.GetParticipantByIdAsync(id);
+        return await _participantRepository.GetByIdAsync(id);
     }
 
     public void Update(Participant participant)

@@ -15,6 +15,7 @@ public class WorkShopService : IWorkShopService
         _workShopRepository = workShopRepository;
         _appDbContext = appDbContext;
     }
+
     public async Task<WorkShop> CreateWorkShopAsync(CreateWorkShopDTO dto)
     {
         WorkShop workShop = new WorkShop

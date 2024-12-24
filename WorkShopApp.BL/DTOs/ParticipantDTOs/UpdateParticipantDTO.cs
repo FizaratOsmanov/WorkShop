@@ -9,5 +9,4 @@ public class UpdateParticipantDTO
 
     public string Phone { get; set; }
 
-    public int WorkShopId { get; set; }
 }

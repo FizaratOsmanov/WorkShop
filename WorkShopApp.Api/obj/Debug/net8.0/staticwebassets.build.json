@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "AmPAKE7MIPbpTk96VVmzyWz6/Iidj2dzoe1JtQ2hWzI=",
+  "Hash": "dxjwagq/nxI+Z0rBl4diVgj+KJRMkYlghM88iZSpnvo=",
   "Source": "WorkShopApp.Api",
   "BasePath": "_content/WorkShopApp.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

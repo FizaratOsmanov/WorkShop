@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\WorkShop\\WorkShopApp.BL\\WorkShopApp.BL.csproj": {}
+    "C:\\Users\\LENOVO\\Desktop\\WorkShop\\WorkShopApp.BL\\WorkShopApp.BL.csproj": {}
   },
   "projects": {
-    "E:\\WorkShop\\WorkShopApp.BL\\WorkShopApp.BL.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\WorkShop\\WorkShopApp.BL\\WorkShopApp.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WorkShop\\WorkShopApp.BL\\WorkShopApp.BL.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\WorkShop\\WorkShopApp.BL\\WorkShopApp.BL.csproj",
         "projectName": "WorkShopApp.BL",
-        "projectPath": "E:\\WorkShop\\WorkShopApp.BL\\WorkShopApp.BL.csproj",
-        "packagesPath": "C:\\Users\\ca r221.14\\.nuget\\packages\\",
-        "outputPath": "E:\\WorkShop\\WorkShopApp.BL\\obj\\",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\WorkShop\\WorkShopApp.BL\\WorkShopApp.BL.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\WorkShop\\WorkShopApp.BL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ca r221.14\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,18 +26,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\WorkShop\\WorkShopApp.Core\\WorkShopApp.Core.csproj": {
-                "projectPath": "E:\\WorkShop\\WorkShopApp.Core\\WorkShopApp.Core.csproj"
+              "C:\\Users\\LENOVO\\Desktop\\WorkShop\\WorkShopApp.Core\\WorkShopApp.Core.csproj": {
+                "projectPath": "C:\\Users\\LENOVO\\Desktop\\WorkShop\\WorkShopApp.Core\\WorkShopApp.Core.csproj"
               },
-              "E:\\WorkShop\\WorkShopApp.Data\\WorkShopApp.Data.csproj": {
-                "projectPath": "E:\\WorkShop\\WorkShopApp.Data\\WorkShopApp.Data.csproj"
+              "C:\\Users\\LENOVO\\Desktop\\WorkShop\\WorkShopApp.Data\\WorkShopApp.Data.csproj": {
+                "projectPath": "C:\\Users\\LENOVO\\Desktop\\WorkShop\\WorkShopApp.Data\\WorkShopApp.Data.csproj"
               }
             }
           }
@@ -50,8 +49,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -72,24 +72,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\WorkShop\\WorkShopApp.Core\\WorkShopApp.Core.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\WorkShop\\WorkShopApp.Core\\WorkShopApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WorkShop\\WorkShopApp.Core\\WorkShopApp.Core.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\WorkShop\\WorkShopApp.Core\\WorkShopApp.Core.csproj",
         "projectName": "WorkShopApp.Core",
-        "projectPath": "E:\\WorkShop\\WorkShopApp.Core\\WorkShopApp.Core.csproj",
-        "packagesPath": "C:\\Users\\ca r221.14\\.nuget\\packages\\",
-        "outputPath": "E:\\WorkShop\\WorkShopApp.Core\\obj\\",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\WorkShop\\WorkShopApp.Core\\WorkShopApp.Core.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\WorkShop\\WorkShopApp.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ca r221.14\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -98,7 +98,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -115,8 +114,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -137,24 +137,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\WorkShop\\WorkShopApp.Data\\WorkShopApp.Data.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\WorkShop\\WorkShopApp.Data\\WorkShopApp.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WorkShop\\WorkShopApp.Data\\WorkShopApp.Data.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\WorkShop\\WorkShopApp.Data\\WorkShopApp.Data.csproj",
         "projectName": "WorkShopApp.Data",
-        "projectPath": "E:\\WorkShop\\WorkShopApp.Data\\WorkShopApp.Data.csproj",
-        "packagesPath": "C:\\Users\\ca r221.14\\.nuget\\packages\\",
-        "outputPath": "E:\\WorkShop\\WorkShopApp.Data\\obj\\",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\WorkShop\\WorkShopApp.Data\\WorkShopApp.Data.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\WorkShop\\WorkShopApp.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ca r221.14\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -163,15 +163,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\WorkShop\\WorkShopApp.Core\\WorkShopApp.Core.csproj": {
-                "projectPath": "E:\\WorkShop\\WorkShopApp.Core\\WorkShopApp.Core.csproj"
+              "C:\\Users\\LENOVO\\Desktop\\WorkShop\\WorkShopApp.Core\\WorkShopApp.Core.csproj": {
+                "projectPath": "C:\\Users\\LENOVO\\Desktop\\WorkShop\\WorkShopApp.Core\\WorkShopApp.Core.csproj"
               }
             }
           }
@@ -184,8 +183,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -222,7 +222,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,4 +1,5 @@
-﻿using WorkShopApp.Core.Entities;
+﻿using WorkShopApp.BL.DTOs.ParticipantDTOs;
+using WorkShopApp.Core.Entities;
 
 namespace WorkShopApp.BL.Services.Abstractions;
 
@@ -8,7 +9,7 @@ public interface IParticipantService
 
     Task<Participant> GetParticipantByIdAsync(int id);
 
-    Task<Participant> CreateWorkShopAsync(Participant participant);
+    Task<Participant> CreateParticipantAsync(CreateParticipantDTO dto);
 
     void Update(Participant participant);
 

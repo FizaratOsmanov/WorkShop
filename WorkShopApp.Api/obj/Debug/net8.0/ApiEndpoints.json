@@ -1,5 +1,47 @@
 [
   {
+    "ContainingType": "WorkShopApp.Api.Controllers.ParticipantsController",
+    "Method": "GetAllParticipant",
+    "RelativePath": "api/Participants",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WorkShopApp.Api.Controllers.ParticipantsController",
+    "Method": "CreateParticipant",
+    "RelativePath": "api/Participants",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "WorkShopApp.BL.DTOs.ParticipantDTOs.CreateParticipantDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WorkShopApp.Api.Controllers.ParticipantsController",
+    "Method": "GetParticipantById",
+    "RelativePath": "api/Participants/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "WorkShopApp.Api.Controllers.WorkShopsController",
     "Method": "GetAllWorkShop",
     "RelativePath": "api/WorkShops",
